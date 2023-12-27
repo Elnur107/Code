@@ -1,0 +1,15 @@
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\bin\Debug\net6.0\AutoMapper.exe
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\bin\Debug\net6.0\AutoMapper.deps.json
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\bin\Debug\net6.0\AutoMapper.runtimeconfig.json
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\bin\Debug\net6.0\AutoMapper.pdb
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapper.csproj.AssemblyReference.cache
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapper.AssemblyInfoInputs.cache
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapper.AssemblyInfo.cs
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapper.dll
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\refint\AutoMapper.dll
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapper.pdb
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\AutoMapper.genruntimeconfig.cache
+C:\Users\elnurza\source\repos\AutoMapper\AutoMapper\obj\Debug\net6.0\ref\AutoMapper.dll
